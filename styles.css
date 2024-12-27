@@ -1,0 +1,8 @@
+img{
+    display:block;
+    justify-content: center;
+  }
+  #image{
+    max-width: 100%;
+    height: auto;
+  }
